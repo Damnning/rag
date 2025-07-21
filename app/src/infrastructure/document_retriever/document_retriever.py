@@ -13,5 +13,3 @@ class DocumentRetriever:
         self.path = path
         self.format = format
 
-    def retrieve(self):
-
